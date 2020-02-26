@@ -139,8 +139,8 @@ return a+b;
 const total = sum(20,30);
 console.log('Total:',total);*/
 
-var name = 'viviane';
-console.log(name);
+var surname = 'Laure';
+console.log(surname);
 
 
 
