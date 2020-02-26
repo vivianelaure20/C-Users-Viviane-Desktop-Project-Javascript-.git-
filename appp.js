@@ -141,8 +141,8 @@ console.log('Total:',total);*/
 
 
 
-var surname = 'Laure';
-console.log(surname);
+var number = 123;
+console.log(number);
 
 
 
