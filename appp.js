@@ -132,9 +132,23 @@ console.log(typeof vt);*/
 
 //console.log('Hello Node js');
 
-function sum(a,b)
+/*function sum(a,b)
 {
 return a+b;
 }
 const total = sum(20,30);
-console.log('Total:',total);
+console.log('Total:',total);*/
+
+var name = 'viviane';
+console.log(name);
+
+
+
+
+
+
+
+
+
+
+
