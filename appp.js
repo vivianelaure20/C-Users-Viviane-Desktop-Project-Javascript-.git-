@@ -140,11 +140,16 @@ const total = sum(20,30);
 console.log('Total:',total);*/
 
 
+const express = require('Express');
 
-var number = 123;
-console.log(number);
+const app = express();
 
+app.get("+",(req,res)=> 
+{
+    res.sendStatus(484);
+});
 
+app.listen(8888,() => console.log('API is started on port 8888'));
 
 
 
