@@ -130,7 +130,7 @@ console.log(typeof vt);*/
 
 
 
-//console.log('Hello Node js');
+console.log('Hello Node js');
 
 /*function sum(a,b)
 {
@@ -140,7 +140,7 @@ const total = sum(20,30);
 console.log('Total:',total);*/
 
 
-const express = require('Express');
+/*const express = require('Express');
 
 const app = express();
 
@@ -149,9 +149,7 @@ app.get("+",(req,res)=>
     res.sendStatus(484);
 });
 
-app.listen(8888,() => console.log('API is started on port 8888'));
-
-
+app.listen(8888,() => console.log('API is started on port 8888'));*/
 
 
 
